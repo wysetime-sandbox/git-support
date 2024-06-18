@@ -38,7 +38,6 @@ git reflog expire --expire=now --all
 git gc --prune=now --aggressive
 
 # Set the push location to your GitHub repository
-git remote set-url origin "https://github.com/yourusername/your-repo.git"
 git push origin --force --all
 git push origin --force --tags
 
