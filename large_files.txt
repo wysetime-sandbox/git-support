@@ -1,0 +1,2 @@
+bf55c4ec66f8d14a07c944287f70228537ad5760 archive/Wyse-Envision-1.3/configs/nvinfer_custom_lpr_parser/libnvdsinfer_custom_impl_lpr.so
+73e54b3ec436a82c1cd5e96eda80ed616ba9d975 Wyse-Envision-1.1.2/models/Secondary_VehicleTypes/mean.ppm
